@@ -19,13 +19,11 @@ To run the dashboard locally, follow these steps:
 bash
 cd student-exam-performance
 
-## Install the required dependencies:
-   ```bash
+## Install the required dependencies:```bash
       pip install -r requirements.txt
 
-## Run the Streamlit app:
-bash
-streamlit run app.py
+## Run the Streamlit app: ```bash
+      streamlit run app.py
 
 ## Usage
 The dashboard allows users to explore the analysis results for each question. Use the sidebar to navigate through different sections and adjust filters to customize the visualizations.
@@ -45,6 +43,9 @@ The dashboard allows users to explore the analysis results for each question. Us
 
 ## Data
 The analysis was conducted using a dataset containing information on students' exam scores, study hours, attendance, parental involvement, access to resources, extracurricular activities, sleep hours, previous scores, motivation level, internet access, tutoring sessions, family income, teacher quality, school types, peer influence, physical activity, learning disabilities, parental educational level, distance from home to school, gender, and other relevant factors.
+
+![image](https://github.com/user-attachments/assets/a51b58c6-d6c1-4e4f-b650-31a61fe44905)
+
 
 ## Contributing
 If you would like to contribute to this project, please fork the repository and submit a pull request. For any issues or suggestions, feel free to open an issue on GitHub.
