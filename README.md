@@ -2,6 +2,11 @@
 
 This repository contains the analysis of various factors affecting student exam performance and a dashboard created using the Streamlit library. 
 
+## Data
+The analysis was conducted using a dataset containing information on students' exam scores, study hours, attendance, parental involvement, access to resources, extracurricular activities, sleep hours, previous scores, motivation level, internet access, tutoring sessions, family income, teacher quality, school types, peer influence, physical activity, learning disabilities, parental educational level, distance from home to school, gender, and other relevant factors.
+
+![image](https://github.com/user-attachments/assets/a51b58c6-d6c1-4e4f-b650-31a61fe44905)
+
 
 ## Dashboard Overview
 
@@ -50,12 +55,6 @@ The dashboard allows users to explore the analysis results for each question. Us
 8. How does motivation level correlate with exam results?
 9. Is there a significant difference in exam scores between students with and without internet access?
 10. How do tutoring sessions influence exam performance?
-
-## Data
-The analysis was conducted using a dataset containing information on students' exam scores, study hours, attendance, parental involvement, access to resources, extracurricular activities, sleep hours, previous scores, motivation level, internet access, tutoring sessions, family income, teacher quality, school types, peer influence, physical activity, learning disabilities, parental educational level, distance from home to school, gender, and other relevant factors.
-
-![image](https://github.com/user-attachments/assets/a51b58c6-d6c1-4e4f-b650-31a61fe44905)
-
 
 ## Contributing
 If you would like to contribute to this project, please fork the repository and submit a pull request. For any issues or suggestions, feel free to open an issue on GitHub.
