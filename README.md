@@ -37,9 +37,8 @@ To run the dashboard locally, follow these steps:
    ```bash
    git clone https://github.com/yourusername/student-exam-performance.git
 
-## Navigate to the project directory:
-bash
-cd student-exam-performance
+## Navigate to the project directory:```bash
+      cd student-exam-performance
 
 ## Install the required dependencies:```bash
       pip install -r requirements.txt
