@@ -1,6 +1,12 @@
 # Student Exam Performance Analysis Dashboard
 
-This repository contains the analysis of various factors affecting student exam performance and a dashboard created using the Streamlit library. 
+This repository contains the analysis of various factors affecting student exam performance and a dashboard created using the Streamlit library.
+
+## Technologies used: -
+Languages: -
+Python (Data Analysis)
+Libraries: -
+Pandas (Data manipulation), NumPy (Numerical computing), Matplotlib/Seaborn (Data visualization), Streamlit (Dashboard)
 
 ## Data
 The analysis was conducted using a dataset containing information on students' exam scores, study hours, attendance, parental involvement, access to resources, extracurricular activities, sleep hours, previous scores, motivation level, internet access, tutoring sessions, family income, teacher quality, school types, peer influence, physical activity, learning disabilities, parental educational level, distance from home to school, gender, and other relevant factors.
@@ -12,7 +18,7 @@ The analysis was conducted using a dataset containing information on students' e
 
 The dashboard provides an interactive interface to explore the analysis results for the above questions. It includes various charts, graphs, and tables to visualize the data and insights.
 
-## Some Dashboard Pictures
+### Visuals
 ![image](https://github.com/user-attachments/assets/6a36f56b-2e6d-405c-983d-07f579e239ba)
 ![image](https://github.com/user-attachments/assets/78dcf0a4-4010-4a83-a5b3-d13a0d76cac2)
 ![image](https://github.com/user-attachments/assets/07f7c96f-7d88-441f-a794-0143266e615c)
