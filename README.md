@@ -1,4 +1,4 @@
-<h1 align = "center" >Student Exam Performance Analysis Dashboard</h1>
+<h1 align = "center" >Student Exam Performance Analysis</h1>
 
 This repository contains the analysis of various factors affecting student exam performance and a dashboard created using the Streamlit library.
 
