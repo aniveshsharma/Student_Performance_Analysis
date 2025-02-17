@@ -23,7 +23,7 @@ The analysis was conducted using a dataset containing information on students' e
 The dashboard provides an interactive interface to explore the analysis results for the above questions. It includes various charts, graphs, and tables to visualize the data and insights.
 
 ### Visuals :-
-![image](https://github.com/user-attachments/assets/6a36f56b-2e6d-405c-983d-07f579e239ba)
+![image](https://github.com/user-attachments/assets/2af0c14f-c730-4729-b256-aecfab3c0f07)
 ![image](https://github.com/user-attachments/assets/78dcf0a4-4010-4a83-a5b3-d13a0d76cac2)
 ![image](https://github.com/user-attachments/assets/07f7c96f-7d88-441f-a794-0143266e615c)
 
