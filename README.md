@@ -38,13 +38,13 @@ To run the dashboard locally, follow these steps:
    ```bash
    git clone https://github.com/yourusername/student-exam-performance.git
 
-## Navigate to the project directory :- ```bash
+## Navigate to the project directory :-
       cd student-exam-performance
 
-## Install the required dependencies :-```bash
+## Install the required dependencies :-
       pip install -r requirements.txt
 
-## Run the Streamlit app :- ```bash
+## Run the Streamlit app :-
       streamlit run app.py
 
 ## Usage :-
