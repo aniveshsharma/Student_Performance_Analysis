@@ -2,6 +2,8 @@
 
 This repository contains the analysis of various factors affecting student exam performance and a dashboard created using the Streamlit library.
 
+![wallpaperflare com_wallpaper](https://github.com/user-attachments/assets/b45f688f-74aa-4506-9705-e34a2daa7100)
+
 ## Objective :-
 The primary objective of this project is to analyze and visualize the impact of various factors on student exam performance. By examining aspects such as study habits, attendance, parental involvement, resource availability, extracurricular activities, sleep patterns, motivation, internet access, tutoring, family income, teacher quality, school type, peer influence, physical activity, learning disabilities, parental education level, school distance, gender, and other relevant factors, we aim to identify key contributors to student success. The interactive dashboard created using Streamlit will allow users to explore the analysis results, derive meaningful insights, and make informed decisions to improve educational outcomes.
 
